@@ -15,12 +15,12 @@
  */
 package org.pf4j.spring;
 
-import org.pf4j.PluginManager;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import org.pf4j.PluginManager;
 
 /**
  * A {@link SpringExtensionFactory} that always returns a specific instance.
